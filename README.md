@@ -1,4 +1,4 @@
-# 🌐 Keertan Kumar Portfolio
+# 🌐 Portfolio
 
 A premium, modern and responsive personal portfolio website built using **HTML, CSS and JavaScript**. The portfolio showcases my academic background, technical skills, projects, achievements, competitive programming journey and contact information in an elegant editorial design.
 
@@ -62,30 +62,9 @@ Portfolio/
 
 ---
 
-## 🚀 Installation
+## 🚀 Portfolio Link
 
-Clone the repository:
-
-```bash
-git clone https://github.com/KK05467/Portfolio.git
-```
-
-Move into the project:
-
-```bash
-cd Portfolio
-```
-
-Open:
-
-```text
-index.html
-```
-
-in your browser.
-
----
-
+https://kk05467.github.io/Portfolio/
 ## 📌 Sections
 
 * Hero Section
